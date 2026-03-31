@@ -11,60 +11,28 @@ about:
         <p>We are a full-service digital agency specializing in the creation and promotion of SaaS products. Combining expertise in product development, marketing, and design, we help tech companies turn ideas into profitable online services.</p>
         <p>Our teams design scalable solutions—from MVPs to mature platforms—implement modern technologies, and build an effective brand presence on social media. We work with every stage of the product lifecycle: from strategy and UX design to content marketing, SMM, and analytics.</p>
         "
-  list:
-    - label: "Name"
-      value: "24"
+  # list:
+  #   - label: "Name"
+  #     value: "24"
 
-    - label: "Age"
-      value: "22 Years"
+  #   - label: "Age"
+  #     value: "22 Years"
 
-    - label: "Job"
-      value: "Web Developer"
+  #   - label: "Job"
+  #     value: "Web Developer"
 
-    - label: "Citizenship"
-      value: "Russia"
+  #   - label: "Citizenship"
+  #     value: "Russia"
 
-    - label: "Residence"
-      value: "Moscow"
+  #   - label: "Residence"
+  #     value: "Moscow"
 
-    - label: "E-mail"
-      value: "johndoe@domain.com"
+  #   - label: "E-mail"
+  #     value: "johndoe@domain.com"
 
-  download:
-    text: "Download CV"
-    link: "https://drive.google.com/"
-
-### Agency [ agency ]
-agancy:
-  experience:
-    title: "Experience"
-    items:
-      - year: "2013 - Present"
-        name: "Art Director - Facebook Inc"
-        text: "Collaborate with creative and development teams on the execution of ideas."
-
-      - year: "2011 - 2012"
-        name: "Front-end Developer - Google Inc"
-        text: "Monitored technical aspects of the front-end delivery for several projects."
-
-      - year: "2009 - 2010"
-        name: "Senior Developer - Abc Inc"
-        text: "Optimize website performance using latest technology."
-        
-  education:
-    title: "Education"
-    items:
-      - year: "2006 - 2008"
-        name: "Art University of New York"
-        text: "Bachelor's Degree in Computer Science ABC Technical Institute, Jefferson, Missouri"
-
-      - year: "2005 - 2006"
-        name: "Programming Course"
-        text: "Coursework - Git, WordPress, Javascript, iOS, Android."
-
-      - year: "2004 - 2005"
-        name: "Web Design Course"
-        text: "Converted Photoshop layouts to web pages using HTML, CSS, and JavaScript"
+  # download:
+  #   text: "Download CV"
+  #   link: "https://drive.google.com/"
 
 ### Resume [ resume ]
 # resume:
