@@ -10,7 +10,12 @@ main:
   - title: "Home"
     url: "/"
     button: 0
-    
+
+  # Resume
+  - title: "Agency"
+    url: "agency/"
+    button: 0
+
   # # Resume
   # - title: "Resume"
   #   url: "resume/"
