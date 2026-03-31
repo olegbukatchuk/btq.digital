@@ -198,15 +198,15 @@ contacts_info:
   list:
     - label: "Phone"
       icon: "android-phone-portrait"
-      value: "+ (231) 456 67 89"
+      value: "+ 7 (495) 726 10 16"
 
     - label: "Email"
       icon:  "email"
-      value: "<a href='mailto:john-doe@gmail.com'>john-doe@gmail.com</a>"
+      value: "<a href='mailto:hello@btq.digital'>hello@btq.digital</a>"
 
     - label: "Address"
       icon: "ios-location"
-      value: "2621 W Pico Blvd, Los Angeles"
+      value: "Moscow, Russia"
 
 ### Contact Form [ contacts-form ]
 contacts_form:
