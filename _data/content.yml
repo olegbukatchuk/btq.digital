@@ -34,7 +34,7 @@ about:
     text: "Download CV"
     link: "https://drive.google.com/"
 
-### Resume [ resume ]
+### Agency [ agency ]
 agancy:
   experience:
     title: "Experience"
@@ -182,11 +182,11 @@ services:
       text: "SaaS product development: architecture, UI/UX, backend, and frontend design."
 
     - icon: "compass"
-      name: "Mobile Application"
+      name: "Strategy"
       text: "We create digital strategies aimed at growth and engagement."
 
     - icon: "heart"
-      name: "Investigation"
+      name: "Social Media"
       text: "We promote brands and products on social media, increasing reach and audience loyalty."
 
 # ### Clients [ clients ]
