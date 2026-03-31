@@ -8,10 +8,8 @@ about:
   title: "About us"
   image: "assets/img/man1.jpg"
   text: "
-        <p>
-          We are a full-service digital agency specializing in the creation and promotion of SaaS products. Combining expertise in product development, marketing, and design, we help tech companies turn ideas into profitable online services.
-          Our teams design scalable solutions—from MVPs to mature platforms—implement modern technologies, and build an effective brand presence on social media. We work with every stage of the product lifecycle: from strategy and UX design to content marketing, SMM, and analytics.
-        </p>
+        <p>We are a full-service digital agency specializing in the creation and promotion of SaaS products. Combining expertise in product development, marketing, and design, we help tech companies turn ideas into profitable online services.</p>
+        <p>Our teams design scalable solutions—from MVPs to mature platforms—implement modern technologies, and build an effective brand presence on social media. We work with every stage of the product lifecycle: from strategy and UX design to content marketing, SMM, and analytics.</p>
         "
   list:
     - label: "Name"
@@ -179,29 +177,17 @@ agancy:
 services:
   title: "Services"
   items:
-    - icon: "social-html5"
-      name: "Front-end"
-      text: "Front-end web development is the practice of converting data to a graphical interface, through the use of HTML, CSS, and JavaScript."
-
-    - icon: "ipad"
-      name: "Mobile Application"
-      text: "A mobile application, most commonly referred to as an app, is a type of application software designed to run on a mobile."
-
-    - icon: "ios-search-strong"
-      name: "Investigation"
-      text: "Investigation, examination, inquiry, research express the idea of an active effort to find out something."
-
     - icon: "code"
-      name: "Programming"
-      text: "Computer programming is the process of designing and building an executable computer program to accomplish a specific."
+      name: "Development"
+      text: "SaaS product development: architecture, UI/UX, backend, and frontend design."
 
-    - icon: "help-buoy"
-      name: "Awesome Supports"
-      text: "Awesome Support is the most versatile and feature-rich. Get started for free and add premium features as your business grows."
+    - icon: "compass"
+      name: "Mobile Application"
+      text: "We create digital strategies aimed at growth and engagement."
 
-    - icon: "social-chrome"
-      name: "Web Development"
-      text: "Web development is the work involved in developing a Web site for the Internet or an intranet and social network services."
+    - icon: "heart"
+      name: "Investigation"
+      text: "We promote brands and products on social media, increasing reach and audience loyalty."
 
 # ### Clients [ clients ]
 # clients:
