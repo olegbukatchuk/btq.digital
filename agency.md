@@ -3,7 +3,7 @@ layout: page
 title: Agency
 ---
 
-### We are a full-service digital agency specializing in the creation and promotion of SaaS products. Combining expertise in product development, marketing, and design, we help tech companies turn ideas into profitable online services.
+We are a full-service digital agency specializing in the creation and promotion of SaaS products. Combining expertise in product development, marketing, and design, we help tech companies turn ideas into profitable online services.
 
 Our teams design scalable solutions—from MVPs to mature platforms—implement modern technologies, and build an effective brand presence on social media. We work with every stage of the product lifecycle: from strategy and UX design to content marketing, SMM, and analytics.
 
