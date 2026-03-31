@@ -11,9 +11,14 @@ main:
     url: "/"
     button: 0
 
-  # Resume
+  # Agency
   - title: "Agency"
     url: "agency/"
+    button: 0
+
+  # Services
+  - title: "Services"
+    url: "services/"
     button: 0
 
   # # Resume
