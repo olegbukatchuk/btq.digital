@@ -1,0 +1,10 @@
+# Home content configuration file
+##
+### here you can find all content for home page
+
+### Started
+started:
+  title: "btq.digital"
+  typed:
+    - "We are crete SaaS products"
+    # - "Based in Moscow."
