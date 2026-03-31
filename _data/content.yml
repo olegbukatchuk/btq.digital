@@ -13,28 +13,28 @@ about:
           Our teams design scalable solutions—from MVPs to mature platforms—implement modern technologies, and build an effective brand presence on social media. We work with every stage of the product lifecycle: from strategy and UX design to content marketing, SMM, and analytics.
         </p>
         "
-  # list:
-  #   - label: "Name"
-  #     value: "24"
+  list:
+    - label: "Name"
+      value: "24"
 
-  #   - label: "Age"
-  #     value: "22 Years"
+    - label: "Age"
+      value: "22 Years"
 
-  #   - label: "Job"
-  #     value: "Web Developer"
+    - label: "Job"
+      value: "Web Developer"
 
-  #   - label: "Citizenship"
-  #     value: "Russia"
+    - label: "Citizenship"
+      value: "Russia"
 
-  #   - label: "Residence"
-  #     value: "Moscow"
+    - label: "Residence"
+      value: "Moscow"
 
-  #   - label: "E-mail"
-  #     value: "johndoe@domain.com"
+    - label: "E-mail"
+      value: "johndoe@domain.com"
 
-  # download:
-  #   text: "Download CV"
-  #   link: "https://drive.google.com/"
+  download:
+    text: "Download CV"
+    link: "https://drive.google.com/"
 
 ### Resume [ resume ]
 # resume:
@@ -69,79 +69,79 @@ about:
 #         text: "Converted Photoshop layouts to web pages using HTML, CSS, and JavaScript"
 
 ### Skills [ skills ]
-skills:
-  columns:
-    # - type: "default" #skills progress type - default, dotted, circles, list
-    #   title: "Design Skills"
-    #   items:
-    #     - label: "Web Design"
-    #       value: "70" #0-100 progress in %
+# skills:
+#   columns:
+#     - type: "default" #skills progress type - default, dotted, circles, list
+#       title: "Design Skills"
+#       items:
+#         - label: "Web Design"
+#           value: "70" #0-100 progress in %
 
-    #     - label: "Illustrations"
-    #       value: "90" #0-100 progress in %
+#         - label: "Illustrations"
+#           value: "90" #0-100 progress in %
 
-    #     - label: "Photoshop"
-    #       value: "75" #0-100 progress in %
+#         - label: "Photoshop"
+#           value: "75" #0-100 progress in %
 
-    #     - label: "Graphic Design"
-    #       value: "80" #0-100 progress in %
+#         - label: "Graphic Design"
+#           value: "80" #0-100 progress in %
 
-    # - type: "dotted" #skills progress type - default, dotted, circles, list
-    #   title: "Languages Skills"
-    #   items:
-    #     - label: "English"
-    #       value: "90" #0-100 progress in %
+#     - type: "dotted" #skills progress type - default, dotted, circles, list
+#       title: "Languages Skills"
+#       items:
+#         - label: "English"
+#           value: "90" #0-100 progress in %
 
-    #     - label: "German"
-    #       value: "70" #0-100 progress in %
+#         - label: "German"
+#           value: "70" #0-100 progress in %
 
-    #     - label: "Italian"
-    #       value: "55" #0-100 progress in %
+#         - label: "Italian"
+#           value: "55" #0-100 progress in %
 
-    #     - label: "French"
-    #       value: "85" #0-100 progress in %
+#         - label: "French"
+#           value: "85" #0-100 progress in %
 
-    # - type: "circles" #skills progress type - default, dotted, circles, list
-    #   title: "Coding Skills"
-    #   items:
-    #     - label: "WordPress"
-    #       value: "95" #0-100 progress in %
+#     - type: "circles" #skills progress type - default, dotted, circles, list
+#       title: "Coding Skills"
+#       items:
+#         - label: "WordPress"
+#           value: "95" #0-100 progress in %
 
-    #     - label: "PHP / MYSQL"
-    #       value: "75" #0-100 progress in %
+#         - label: "PHP / MYSQL"
+#           value: "75" #0-100 progress in %
 
-    #     - label: "Angular / JavaScript"
-    #       value: "85" #0-100 progress in %
+#         - label: "Angular / JavaScript"
+#           value: "85" #0-100 progress in %
 
-    #     - label: "HTML / CSS"
-    #       value: "90" #0-100 progress in %
+#         - label: "HTML / CSS"
+#           value: "90" #0-100 progress in %
 
-    # - type: "list" #skills progress type - default, dotted, circles, list
-    #   title: "Knowledge"
-    #   items:
-    #     - label: "Website hosting"
-    #       value: "" #0-100 progress in %
+#     - type: "list" #skills progress type - default, dotted, circles, list
+#       title: "Knowledge"
+#       items:
+#         - label: "Website hosting"
+#           value: "" #0-100 progress in %
 
-    #     - label: "iOS and android apps"
-    #       value: "" #0-100 progress in %
+#         - label: "iOS and android apps"
+#           value: "" #0-100 progress in %
 
-    #     - label: "Create logo design"
-    #       value: "" #0-100 progress in %
+#         - label: "Create logo design"
+#           value: "" #0-100 progress in %
 
-    #     - label: "Design for print"
-    #       value: "" #0-100 progress in %
+#         - label: "Design for print"
+#           value: "" #0-100 progress in %
 
-    #     - label: "Modern and mobile-ready"
-    #       value: "" #0-100 progress in %
+#         - label: "Modern and mobile-ready"
+#           value: "" #0-100 progress in %
 
-    #     - label: "Advertising services include"
-    #       value: "" #0-100 progress in %
+#         - label: "Advertising services include"
+#           value: "" #0-100 progress in %
 
-    #     - label: "Graphics and animations"
-    #       value: "" #0-100 progress in %
+#         - label: "Graphics and animations"
+#           value: "" #0-100 progress in %
 
-    #     - label: "Search engine marketing"
-    #       value: "" #0-100 progress in %
+#         - label: "Search engine marketing"
+#           value: "" #0-100 progress in %
 
 ### Services [ services ]
 services:
